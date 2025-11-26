@@ -15,11 +15,17 @@ Full Stack Developer skilled in building scalable web applications using C#, ASP
 ### 🛠️ Tech Stack
 
 **Backend:** C#, ASP.NET Core, ASP.NET MVC, Web API, Entity Framework, LINQ
+
 **Frontend:** HTML5, CSS3, JavaScript, TypeScript, Angular, Bootstrap, jQuery
+
 **Databases / Storage:** SQL Server, EF Core, Redis
+
 **Auth / Security:** JWT, ASP.NET Identity, OAuth basics
+
 **Real-time:** SignalR
+
 **Dev Tools / Cloud:** Git, GitHub, Visual Studio, VS Code, Postman, Swagger, Azure, Docker
+
 **Testing & Patterns:** xUnit, FluentValidation, Repository & Unit of Work, CQRS, Mediator
 
 ---
