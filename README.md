@@ -8,9 +8,9 @@ GitHub: [https://github.com/LotfyMosalam](https://github.com/LotfyMosalam) ·
 
 LinkedIn: [www.linkedin.com/in/lotfy-mosalam](http://www.linkedin.com/in/lotfy-mosalam)
 
-Location : Cairo, Egypt
+Location: Cairo, Egypt
 
-Phone : +201011625623 
+Phone: +201011625623 
 
 ---
 
