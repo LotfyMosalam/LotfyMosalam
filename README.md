@@ -2,7 +2,7 @@
 
 **Full Stack Developer (.NET | Angular)**
 
-Mail: [lotfyabdallamosalam@gmail.com](mailto:lotfyabdallamosalam@gmail.com) 
+Email: [lotfyabdallamosalam@gmail.com](mailto:lotfyabdallamosalam@gmail.com) 
 
 GitHub: [https://github.com/LotfyMosalam](https://github.com/LotfyMosalam) · 
 
