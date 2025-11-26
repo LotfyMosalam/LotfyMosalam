@@ -4,7 +4,7 @@
 
 Email: [lotfyabdallamosalam@gmail.com](mailto:lotfyabdallamosalam@gmail.com) 
 
-GitHub: [https://github.com/LotfyMosalam](https://github.com/LotfyMosalam) · 
+GitHub: [https://github.com/LotfyMosalam](https://github.com/LotfyMosalam) 
 
 LinkedIn: [www.linkedin.com/in/lotfy-mosalam](http://www.linkedin.com/in/lotfy-mosalam)
 
