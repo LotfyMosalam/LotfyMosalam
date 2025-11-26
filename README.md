@@ -64,16 +64,19 @@ Full Stack Developer skilled in building scalable web applications using C#, ASP
 ### 📁 Featured Projects
 
 **Jumia E-Commerce Platform (Graduation Project — ITI)**
+
 Stack: ASP.NET Core Web API, Angular, Docker, Redis, Qdrant, SQL Server, Generative AI
 
 * Built intelligent e-commerce features: real-time stock-aware cart, local LLM-powered search (Qdrant), modular admin dashboard, Redis-triggered reports.
 
 **Exam System — Full Stack (Angular + ASP.NET Core Web API)**
+
 Stack: Angular, TypeScript, ASP.NET Core, EF Core, SQL Server, JWT, Bootstrap
 
 * Role-based online exam platform for 500+ users with automated grading, analytics, and responsive UI.
 
 **Movie Platform — Full Stack MVC Application**
+
 Stack: ASP.NET Core MVC, EF Core, Identity, AutoMapper, Bootstrap
 
 * Implemented CRUD, role-based access, file uploads, email notifications and activity tracking.
@@ -113,5 +116,9 @@ Arabic — Native · English — Proficient
 ### ✉️ Contact & Links
 
 GitHub: [https://github.com/LotfyMosalam](https://github.com/LotfyMosalam)
+
 LinkedIn: [www.linkedin.com/in/lotfy-mosalam](http://www.linkedin.com/in/lotfy-mosalam)
-Email: [lotfyabdallamosalam@gmail.com](mailto:lotfyabdallamosalam@gmail.com) · Phone: +201011625623
+
+Email: [lotfyabdallamosalam@gmail.com](mailto:lotfyabdallamosalam@gmail.com)
+
+Phone: +201011625623
