@@ -1,8 +1,16 @@
 # Lotfy Abdalla Mosalam
 
 **Full Stack Developer (.NET | Angular)**
-[lotfyabdallamosalam@gmail.com](mailto:lotfyabdallamosalam@gmail.com) · +201011625623 · Cairo, Egypt
-GitHub: [https://github.com/LotfyMosalam](https://github.com/LotfyMosalam) · LinkedIn: [www.linkedin.com/in/lotfy-mosalam](http://www.linkedin.com/in/lotfy-mosalam)
+
+[lotfyabdallamosalam@gmail.com](mailto:lotfyabdallamosalam@gmail.com) 
+
+Location : Cairo, Egypt
+
+Phone : +201011625623 
+
+GitHub: [https://github.com/LotfyMosalam](https://github.com/LotfyMosalam) · 
+
+LinkedIn: [www.linkedin.com/in/lotfy-mosalam](http://www.linkedin.com/in/lotfy-mosalam)
 
 ---
 
