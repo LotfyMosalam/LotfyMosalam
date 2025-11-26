@@ -2,15 +2,15 @@
 
 **Full Stack Developer (.NET | Angular)**
 
-[lotfyabdallamosalam@gmail.com](mailto:lotfyabdallamosalam@gmail.com) 
-
-Location : Cairo, Egypt
-
-Phone : +201011625623 
+Mail: [lotfyabdallamosalam@gmail.com](mailto:lotfyabdallamosalam@gmail.com) 
 
 GitHub: [https://github.com/LotfyMosalam](https://github.com/LotfyMosalam) · 
 
 LinkedIn: [www.linkedin.com/in/lotfy-mosalam](http://www.linkedin.com/in/lotfy-mosalam)
+
+Location : Cairo, Egypt
+
+Phone : +201011625623 
 
 ---
 
